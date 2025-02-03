@@ -1281,13 +1281,6 @@
     }
 
 
-    footer .inner {
-        padding: 0 2rem; 
-        display: flex;
-        flex-direction: column-reverse;
-        align-items: flex-start;
-        justify-content: space-between;
-    }
     footer .inner .wrap {
         width: 100%;
         padding: 0 1rem;
@@ -1517,13 +1510,6 @@
     }
 
 
-    footer .inner {
-        padding: 0 2rem; 
-        display: flex;
-        flex-direction: column-reverse;
-        align-items: flex-start;
-        justify-content: space-between;
-    }
     footer .inner .wrap {
         width: 100%;
         padding: 0 1rem;
@@ -1757,13 +1743,6 @@
     }
 
 
-    footer .inner {
-        padding: 0 2rem; 
-        display: flex;
-        flex-direction: column-reverse;
-        align-items: flex-start;
-        justify-content: space-between;
-    }
     footer .inner .wrap {
         width: 100%;
         padding: 0 1rem;
@@ -1997,13 +1976,7 @@
     }
 
 
-    footer .inner {
-        padding: 0 2rem; 
-        display: flex;
-        flex-direction: column-reverse;
-        align-items: flex-start;
-        justify-content: space-between;
-    }
+
     footer .inner .wrap {
         width: 100%;
         padding: 0 1rem;
