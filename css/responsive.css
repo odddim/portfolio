@@ -901,6 +901,13 @@
     h1 {
         font-size: 5.5rem;
     }
+    main .inner section {
+        padding: 0 1.5rem;
+    }
+    main #home section .title {
+        padding-top: 10rem;
+        margin: 0 1.5rem;
+    }
     main #home .tag #web {
         top: 15%;
         left: 3%;
@@ -1028,7 +1035,7 @@
 
 
     footer .inner {
-        padding: 0 2rem; 
+        padding: 0 1.5rem; 
         display: flex;
         flex-direction: column-reverse;
         align-items: flex-start;
