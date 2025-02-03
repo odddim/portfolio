@@ -181,7 +181,7 @@ main #home .tag #Designer {
     }
 }
 main #home .tag #Portfolio {
-    top: 48%;
+    top: 47%;
     right: 5%;
     animation: upp 1.5s;
 }
@@ -189,7 +189,7 @@ main #home .tag #Portfolio {
     from {
         top: 100%;
     } to {
-        top: 48%;
+        top: 47%;
     }
 }
 main #home .tag div h1 {
