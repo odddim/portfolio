@@ -1112,6 +1112,7 @@
     }
     .popup .left {
         width: 100%;
+        padding: 0 1.75rem;
     }
     .popup .left .txt {
         padding: 8rem 0;
