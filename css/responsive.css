@@ -1,0 +1,2472 @@
+@media screen and (max-width : 1536px) { 
+    h1 {
+        font-size: 7.75rem;
+    }
+    main #home .tag #Publisher {
+        top: 34%;
+        left: 21%;
+        animation: right 1.5s;
+    }
+    @keyframes right {
+        from {
+            left: 0%;
+        } to {
+            left: 21%;
+        }
+    }
+    main #home .tag #uiux {
+        top: 57%;
+        left: 5%;
+        animation: up 1.5s;
+    }
+    @keyframes up {
+        from {
+            top: 100%;
+        } to {
+            top: 57%;
+        }
+    }
+    main #home .tag #Designer {
+        top: 47%;
+        left: 28%;
+        animation: left 1.5s;
+    }
+    @keyframes left {
+        from {
+            left: 60%;
+        } to {
+            left: 28%;
+        }
+    }
+    main #home .tag #Portfolio {
+        top: 47%;
+        right: 5%;
+        animation: upp 1.5s;
+    }
+    @keyframes upp {
+        from {
+            top: 100%;
+        } to {
+            top: 47%;
+        }
+    }
+
+    main #work .inner .tabmenu li a {
+        font-size: 3.5rem;
+    }
+
+    main #contact footer p, main #contact footer a {
+        font-size: 1.6rem;
+    }
+
+    footer .inner h2 {
+        font-size: 12rem;
+    }
+}
+@media screen and (max-width : 1440px) { 
+    h1 {
+        font-size: 7rem;
+    }
+    main #home .tag #Publisher {
+        top: 34%;
+        left: 21%;
+        animation: right 1.5s;
+    }
+    @keyframes right {
+        from {
+            left: 0%;
+        } to {
+            left: 21%;
+        }
+    }
+    main #home .tag #uiux {
+        top: 57%;
+        left: 5%;
+        animation: up 1.5s;
+    }
+    @keyframes up {
+        from {
+            top: 100%;
+        } to {
+            top: 57%;
+        }
+    }
+    main #home .tag #Designer {
+        top: 47%;
+        left: 28%;
+        animation: left 1.5s;
+    }
+    @keyframes left {
+        from {
+            left: 60%;
+        } to {
+            left: 28%;
+        }
+    }
+    main #home .tag #Portfolio {
+        top: 47%;
+        right: 5%;
+        animation: upp 1.5s;
+    }
+    @keyframes upp {
+        from {
+            top: 100%;
+        } to {
+            top: 47%;
+        }
+    }
+
+    main #work .inner .tabmenu li a {
+        font-size: 3.5rem;
+    }
+
+    main #contact footer p, main #contact footer a {
+        font-size: 1.6rem;
+    }
+
+    footer .inner h2 {
+        font-size: 12rem;
+    }
+}
+@media screen and (max-width : 1344px) { 
+    h1 {
+        font-size: 6.75rem;
+    }
+    main #home .tag #Publisher {
+        top: 34%;
+        left: 21%;
+        animation: right 1.5s;
+    }
+    @keyframes right {
+        from {
+            left: 0%;
+        } to {
+            left: 21%;
+        }
+    }
+    main #home .tag #uiux {
+        top: 57%;
+        left: 5%;
+        animation: up 1.5s;
+    }
+    @keyframes up {
+        from {
+            top: 100%;
+        } to {
+            top: 57%;
+        }
+    }
+    main #home .tag #Designer {
+        top: 47%;
+        left: 28%;
+        animation: left 1.5s;
+    }
+    @keyframes left {
+        from {
+            left: 60%;
+        } to {
+            left: 28%;
+        }
+    }
+    main #home .tag #Portfolio {
+        top: 47%;
+        right: 5%;
+        animation: upp 1.5s;
+    }
+    @keyframes upp {
+        from {
+            top: 100%;
+        } to {
+            top: 47%;
+        }
+    }
+
+    main #work .inner .tabmenu li a {
+        font-size: 3.2rem;
+    }
+
+    .popup .left h1 {
+        font-size: 12rem;
+    }
+
+    
+    footer .inner h2 {
+        font-size: 12rem;
+    }
+}
+@media screen and (max-width : 1303px) { 
+    h1 {
+        font-size: 6.5rem;
+    }
+    main #home .tag #Publisher {
+        top: 34%;
+        left: 21%;
+        animation: right 1.5s;
+    }
+    @keyframes right {
+        from {
+            left: 0%;
+        } to {
+            left: 21%;
+        }
+    }
+    main #home .tag #uiux {
+        top: 57%;
+        left: 5%;
+        animation: up 1.5s;
+    }
+    @keyframes up {
+        from {
+            top: 100%;
+        } to {
+            top: 57%;
+        }
+    }
+    main #home .tag #Designer {
+        top: 47%;
+        left: 28%;
+        animation: left 1.5s;
+    }
+    @keyframes left {
+        from {
+            left: 60%;
+        } to {
+            left: 28%;
+        }
+    }
+    main #home .tag #Portfolio {
+        top: 47%;
+        right: 5%;
+        animation: upp 1.5s;
+    }
+    @keyframes upp {
+        from {
+            top: 100%;
+        } to {
+            top: 47%;
+        }
+    }
+
+    main #work .inner .tabmenu li a {
+        font-size: 3.2rem;
+    }
+
+    .popup .left h1 {
+        font-size: 12rem;
+    }
+
+    
+    footer .inner h2 {
+        font-size: 12rem;
+    }
+}
+@media screen and (max-width : 1230px) { 
+    h1 {
+        font-size: 6.5rem;
+    }
+    main #home .tag #Publisher {
+        top: 34%;
+        left: 21%;
+        animation: right 1.5s;
+    }
+    @keyframes right {
+        from {
+            left: 0%;
+        } to {
+            left: 21%;
+        }
+    }
+    main #home .tag #uiux {
+        top: 57%;
+        left: 5%;
+        animation: up 1.5s;
+    }
+    @keyframes up {
+        from {
+            top: 100%;
+        } to {
+            top: 57%;
+        }
+    }
+    main #home .tag #Designer {
+        top: 47%;
+        left: 28%;
+        animation: left 1.5s;
+    }
+    @keyframes left {
+        from {
+            left: 60%;
+        } to {
+            left: 28%;
+        }
+    }
+    main #home .tag #Portfolio {
+        top: 47%;
+        right: 5%;
+        animation: upp 1.5s;
+    }
+    @keyframes upp {
+        from {
+            top: 100%;
+        } to {
+            top: 47%;
+        }
+    }
+
+    main #work .inner .tabmenu li a {
+        font-size: 3rem;
+    }
+
+    .popup .left h1 {
+        font-size: 10rem;
+    }
+
+    footer .inner h2 {
+        font-family: 'Helvetica2';
+        font-size: 10rem;
+        font-weight: 600;
+        line-height: 0.8em;
+    }
+}
+@media screen and (max-width : 1152px) { 
+    h1 {
+        font-size: 6.25rem;
+    }
+    main #home .tag #Publisher {
+        top: 34%;
+        left: 21%;
+        animation: right 1.5s;
+    }
+    @keyframes right {
+        from {
+            left: 0%;
+        } to {
+            left: 21%;
+        }
+    }
+    main #home .tag #uiux {
+        top: 57%;
+        left: 5%;
+        animation: up 1.5s;
+    }
+    @keyframes up {
+        from {
+            top: 100%;
+        } to {
+            top: 57%;
+        }
+    }
+    main #home .tag #Designer {
+        top: 47%;
+        left: 28%;
+        animation: left 1.5s;
+    }
+    @keyframes left {
+        from {
+            left: 60%;
+        } to {
+            left: 28%;
+        }
+    }
+    main #home .tag #Portfolio {
+        top: 47%;
+        right: 5%;
+        animation: upp 1.5s;
+    }
+    @keyframes upp {
+        from {
+            top: 100%;
+        } to {
+            top: 47%;
+        }
+    }
+
+    main #work .inner .tabmenu li a {
+        font-size: 2.75rem;
+    }
+
+    .popup .left h1 {
+        font-size: 10rem;
+    }
+
+    footer .inner h2 {
+        font-family: 'Helvetica2';
+        font-size: 10rem;
+        font-weight: 600;
+        line-height: 0.8em;
+    }
+}
+@media screen and (max-width : 1118px) { 
+    h1 {
+        font-size: 6.25rem;
+    }
+    main #home .tag #Publisher {
+        top: 34%;
+        left: 21%;
+        animation: right 1.5s;
+    }
+    @keyframes right {
+        from {
+            left: 0%;
+        } to {
+            left: 21%;
+        }
+    }
+    main #home .tag #uiux {
+        top: 57%;
+        left: 5%;
+        animation: up 1.5s;
+    }
+    @keyframes up {
+        from {
+            top: 100%;
+        } to {
+            top: 57%;
+        }
+    }
+    main #home .tag #Designer {
+        top: 47%;
+        left: 28%;
+        animation: left 1.5s;
+    }
+    @keyframes left {
+        from {
+            left: 60%;
+        } to {
+            left: 28%;
+        }
+    }
+    main #home .tag #Portfolio {
+        top: 47%;
+        right: 5%;
+        animation: upp 1.5s;
+    }
+    @keyframes upp {
+        from {
+            top: 100%;
+        } to {
+            top: 47%;
+        }
+    }
+
+    main #work .inner .tabmenu li a {
+        font-size: 2.7rem;
+    }
+
+    .popup .left h1 {
+        font-size: 10rem;
+    }
+
+    footer .inner h2 {
+        font-family: 'Helvetica2';
+        font-size: 10rem;
+        font-weight: 600;
+        line-height: 0.8em;
+    }
+}
+@media screen and (max-width : 1044px) { 
+    h1 {
+        font-size: 5.5rem;
+    }
+    main #home .tag #Publisher {
+        top: 34%;
+        left: 21%;
+        animation: right 1.5s;
+    }
+    @keyframes right {
+        from {
+            left: 0%;
+        } to {
+            left: 21%;
+        }
+    }
+    main #home .tag #uiux {
+        top: 57%;
+        left: 5%;
+        animation: up 1.5s;
+    }
+    @keyframes up {
+        from {
+            top: 100%;
+        } to {
+            top: 57%;
+        }
+    }
+    main #home .tag #Designer {
+        top: 47%;
+        left: 28%;
+        animation: left 1.5s;
+    }
+    @keyframes left {
+        from {
+            left: 60%;
+        } to {
+            left: 28%;
+        }
+    }
+    main #home .tag #Portfolio {
+        top: 47%;
+        right: 5%;
+        animation: upp 1.5s;
+    }
+    @keyframes upp {
+        from {
+            top: 100%;
+        } to {
+            top: 47%;
+        }
+    }
+
+    main #home section .title h3{
+        font-size: 3rem;
+    }
+
+    main #work .inner .tabmenu li a {
+        font-size: 2.5rem;
+    }
+
+    main #work .inner .tworks .twork .top {
+        padding: 1.5rem;
+    }
+
+    .popup .left h1 {
+        font-size: 10rem;
+    }
+
+    footer .inner {
+        padding: 0 2rem; 
+        display: flex;
+        align-items: flex-end;
+        justify-content: space-between;
+    }
+    footer .inner h2 {
+        font-family: 'Helvetica2';
+        font-size: 10rem;
+        font-weight: 600;
+        line-height: 0.8em;
+    }
+
+    main #profile footer {
+        margin-top: 35rem;
+    }
+}
+@media screen and (max-width : 1024px) { 
+    html {
+        font-size: 15px;
+    }
+    main #home .tag #Publisher {
+        top: 34%;
+        left: 21%;
+        animation: right 1.5s;
+    }
+    @keyframes right {
+        from {
+            left: 0%;
+        } to {
+            left: 21%;
+        }
+    }
+    main #home .tag #uiux {
+        top: 57%;
+        left: 5%;
+        animation: up 1.5s;
+    }
+    @keyframes up {
+        from {
+            top: 100%;
+        } to {
+            top: 57%;
+        }
+    }
+    main #home .tag #Designer {
+        top: 47%;
+        left: 28%;
+        animation: left 1.5s;
+    }
+    @keyframes left {
+        from {
+            left: 60%;
+        } to {
+            left: 28%;
+        }
+    }
+    main #home .tag #Portfolio {
+        top: 47%;
+        right: 5%;
+        animation: upp 1.5s;
+    }
+    @keyframes upp {
+        from {
+            top: 100%;
+        } to {
+            top: 47%;
+        }
+    }
+
+    main #work .inner .tabmenu li a {
+        font-size: 2.7rem;
+    }
+
+    main #work .inner .tworks#designcoding {
+        width: 100%;
+        height: 45%;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: repeat(1, 120%);
+    }
+    main #work .inner .tworks#coding {
+        width: 100%; 
+        height: 45%; 
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: repeat(1, 120%);
+    }
+
+    main #work .inner .tworks .twork .top {
+        padding: 1.5rem;
+    }
+
+    .popup .left h1 {
+        font-size: 10rem;
+    }
+
+    footer .inner {
+        padding: 0 2rem; 
+        display: flex;
+        align-items: flex-end;
+        justify-content: space-between;
+    }
+    footer .inner h2 {
+        font-family: 'Helvetica2';
+        font-size: 10rem;
+        font-weight: 600;
+        line-height: 0.8em;
+    }
+
+    main #profile footer {
+        margin-top: 25rem;
+    }
+
+
+}
+@media screen and (max-width : 973px) { 
+    html {
+        font-size: 15px;
+    }
+    h1 {
+        font-size: 5.5rem;
+    }
+    main #home .tag #Publisher {
+        top: 34%;
+        left: 21%;
+        animation: right 1.5s;
+    }
+    @keyframes right {
+        from {
+            left: 0%;
+        } to {
+            left: 21%;
+        }
+    }
+    main #home .tag #uiux {
+        top: 57%;
+        left: 5%;
+        animation: up 1.5s;
+    }
+    @keyframes up {
+        from {
+            top: 100%;
+        } to {
+            top: 57%;
+        }
+    }
+    main #home .tag #Designer {
+        top: 47%;
+        left: 28%;
+        animation: left 1.5s;
+    }
+    @keyframes left {
+        from {
+            left: 60%;
+        } to {
+            left: 28%;
+        }
+    }
+    main #home .tag #Portfolio {
+        top: 47%;
+        right: 5%;
+        animation: upp 1.5s;
+    }
+    @keyframes upp {
+        from {
+            top: 100%;
+        } to {
+            top: 47%;
+        }
+    }
+
+    main #work .inner .tabmenu li a {
+        font-size: 2.5rem;
+    }
+    main #work .inner .tworks#designcoding {
+        width: 100%;
+        height: 45%;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: repeat(1, 120%);
+    }
+    main #work .inner .tworks#coding {
+        width: 100%; 
+        height: 45%; 
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: repeat(1, 120%);
+    }
+
+    main #work .inner .tworks .twork .top {
+        padding: 1.5rem;
+    }
+
+    .popup .left h1 {
+        font-size: 9rem;
+    }
+
+    footer .inner {
+        padding: 0 2rem; 
+        display: flex;
+        align-items: flex-end;
+        justify-content: space-between;
+    }
+    footer .inner h2 {
+        font-family: 'Helvetica2';
+        font-size: 8rem;
+        font-weight: 600;
+        line-height: 0.8em;
+    }
+
+    main #profile footer {
+        margin-top: 25rem;
+    }
+
+
+}
+@media screen and (max-width : 943px) { 
+    html {
+        font-size: 15px;
+    }
+    h1 {
+        font-size: 5.5rem;
+    }
+    main #home .tag #Publisher {
+        top: 34%;
+        left: 21%;
+        animation: right 1.5s;
+    }
+    @keyframes right {
+        from {
+            left: 0%;
+        } to {
+            left: 21%;
+        }
+    }
+    main #home .tag #uiux {
+        top: 57%;
+        left: 5%;
+        animation: up 1.5s;
+    }
+    @keyframes up {
+        from {
+            top: 100%;
+        } to {
+            top: 57%;
+        }
+    }
+    main #home .tag #Designer {
+        top: 47%;
+        left: 28%;
+        animation: left 1.5s;
+    }
+    @keyframes left {
+        from {
+            left: 60%;
+        } to {
+            left: 28%;
+        }
+    }
+    main #home .tag #Portfolio {
+        top: 47%;
+        right: 5%;
+        animation: upp 1.5s;
+    }
+    @keyframes upp {
+        from {
+            top: 100%;
+        } to {
+            top: 47%;
+        }
+    }
+
+    main #work .inner .tabmenu li a {
+        font-size: 2.5rem;
+    }
+    main #work .inner .tworks#designcoding {
+        width: 100%;
+        height: 45%;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: repeat(1, 120%);
+    }
+    main #work .inner .tworks#coding {
+        width: 100%; 
+        height: 45%; 
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: repeat(1, 120%);
+    }
+
+    main #work .inner .tworks .twork .top {
+        padding: 1.5rem;
+    }
+
+    .popup .left h1 {
+        font-size: 9rem;
+    }
+
+    footer .inner {
+        padding: 0 2rem; 
+        display: flex;
+        align-items: flex-end;
+        justify-content: space-between;
+    }
+    footer .inner h2 {
+        font-family: 'Helvetica2';
+        font-size: 8rem;
+        font-weight: 600;
+        line-height: 0.8em;
+    }
+
+    main #profile footer {
+        margin-top: 25rem;
+    }
+
+
+}
+@media screen and (max-width : 901px) { 
+    html {
+        font-size: 15px;
+    }
+    h1 {
+        font-size: 5.5rem;
+    }
+    main #home .tag #Publisher {
+        top: 34%;
+        left: 21%;
+        animation: right 1.5s;
+    }
+    @keyframes right {
+        from {
+            left: 0%;
+        } to {
+            left: 21%;
+        }
+    }
+    main #home .tag #uiux {
+        top: 57%;
+        left: 5%;
+        animation: up 1.5s;
+    }
+    @keyframes up {
+        from {
+            top: 100%;
+        } to {
+            top: 57%;
+        }
+    }
+    main #home .tag #Designer {
+        top: 45%;
+        left: 28%;
+        animation: left 1.5s;
+    }
+    @keyframes left {
+        from {
+            left: 60%;
+        } to {
+            left: 28%;
+        }
+    }
+    main #home .tag #Portfolio {
+        top: 45%;
+        right: 5%;
+        animation: upp 1.5s;
+    }
+    @keyframes upp {
+        from {
+            top: 100%;
+        } to {
+            top: 45%;
+        }
+    }
+
+    main #work .inner .tabmenu li a {
+        font-size: 2.25rem;
+    }
+
+    main #work .inner .tworks {
+        padding-bottom: 15rem;
+    }
+    main #work .inner .tworks#designcoding {
+        width: 100%;
+        height: 45%;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: repeat(1, 120%);
+        padding-bottom: 10rem;
+    }
+    main #work .inner .tworks#coding {
+        width: 100%; 
+        height: 45%; 
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: repeat(1, 120%);
+        padding-bottom: 10rem;
+    }
+
+    main #work .inner .tworks .twork .top {
+        padding: 1.5rem;
+    }
+
+    .popup .left h1 {
+        font-size: 9rem;
+    }
+
+    footer .inner {
+        padding: 0 2rem; 
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: space-between;
+    }
+    footer .inner h2 {
+        font-family: 'Helvetica2';
+        font-size: 8rem;
+        font-weight: 600;
+        line-height: 0.8em;
+    }
+    footer .inner .wrap {
+        width: 100%;
+        padding: 0 2rem;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        padding-left: 4rem;
+    }
+    footer .inner .link {
+        font-size: 1.5rem;
+    }
+
+    main #profile footer {
+        margin-top: 6rem;
+    }
+
+
+}
+@media screen and (max-width : 874px) { 
+    html {
+        font-size: 15px;
+    }
+    h1 {
+        font-size: 5.5rem;
+    }
+    main #home .tag #Publisher {
+        top: 34%;
+        left: 21%;
+        animation: right 1.5s;
+    }
+    @keyframes right {
+        from {
+            left: 0%;
+        } to {
+            left: 21%;
+        }
+    }
+    main #home .tag #uiux {
+        top: 57%;
+        left: 5%;
+        animation: up 1.5s;
+    }
+    @keyframes up {
+        from {
+            top: 100%;
+        } to {
+            top: 57%;
+        }
+    }
+    main #home .tag #Designer {
+        top: 45%;
+        left: 28%;
+        animation: left 1.5s;
+    }
+    @keyframes left {
+        from {
+            left: 60%;
+        } to {
+            left: 28%;
+        }
+    }
+    main #home .tag #Portfolio {
+        top: 45%;
+        right: 5%;
+        animation: upp 1.5s;
+    }
+    @keyframes upp {
+        from {
+            top: 100%;
+        } to {
+            top: 45%;
+        }
+    }
+
+    main #work .inner .tabmenu li a {
+        font-size: 2rem;
+    }
+
+    main #work .inner .tworks {
+        padding-bottom: 15rem;
+    }
+    main #work .inner .tworks#designcoding {
+        width: 100%;
+        height: 45%;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: repeat(1, 120%);
+        padding-bottom: 10rem;
+    }
+    main #work .inner .tworks#coding {
+        width: 100%; 
+        height: 45%; 
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: repeat(1, 120%);
+        padding-bottom: 10rem;
+    }
+
+    main #work .inner .tworks .twork .top {
+        padding: 1.5rem;
+    }
+
+    .popup .left h1 {
+        font-size: 9rem;
+    }
+
+    footer .inner {
+        padding: 0 2rem; 
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: space-between;
+    }
+    footer .inner h2 {
+        font-family: 'Helvetica2';
+        font-size: 8rem;
+        font-weight: 600;
+        line-height: 0.8em;
+    }
+    footer .inner .wrap {
+        width: 100%;
+        padding: 0 2rem;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        padding-left: 4rem;
+    }
+    footer .inner .link {
+        font-size: 1.5rem;
+    }
+
+    main #profile footer {
+        margin-top: 6rem;
+    }
+
+
+}
+@media screen and (max-width : 780px) { 
+    html {
+        font-size: 15px;
+    }
+    h1 {
+        font-size: 5.5rem;
+    }
+    main #home .tag #Publisher {
+        top: 34%;
+        left: 21%;
+        animation: right 1.5s;
+    }
+    @keyframes right {
+        from {
+            left: 0%;
+        } to {
+            left: 21%;
+        }
+    }
+    main #home .tag #uiux {
+        top: 57%;
+        left: 5%;
+        animation: up 1.5s;
+    }
+    @keyframes up {
+        from {
+            top: 100%;
+        } to {
+            top: 57%;
+        }
+    }
+    main #home .tag #Designer {
+        top: 47%;
+        left: 28%;
+        animation: left 1.5s;
+    }
+    @keyframes left {
+        from {
+            left: 60%;
+        } to {
+            left: 28%;
+        }
+    }
+    main #home .tag #Portfolio {
+        top: 47%;
+        right: 5%;
+        animation: upp 1.5s;
+    }
+    @keyframes upp {
+        from {
+            top: 100%;
+        } to {
+            top: 47%;
+        }
+    }
+
+    main #work .inner .tabmenu {
+        top: 0;
+        left: 0;
+        width: 100%;
+        position: fixed;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(2, 1fr);
+        margin-top: calc(3rem - 1px);
+        z-index: 99;
+    }
+    main #work .inner .tabmenu li {
+        width: 100%;
+        height: 5rem;
+        line-height: 5rem;
+        text-align: center;
+        border: 1px solid #121212;
+        background-color: #fff;
+        transition: all .3s;
+    }
+    main #work .inner .tabmenu li:nth-child(1) {
+        grid-column: 1/3;
+    }
+
+    main #work .inner .tabworks-wrap {
+        margin-top: calc(13rem - 1px);
+    }
+
+
+
+    main #work .inner .tabmenu li a {
+        font-size: 3rem;
+    }
+
+    main #work .inner .tworks {
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(6, 18%);
+    }
+    main #work .inner .tworks#designcoding {
+        width: 100%;
+        height: 45%;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(2, 60%);
+    }
+    main #work .inner .tworks#coding {
+        width: 100%; 
+        height: 45%; 
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(2, 60%);
+    }
+
+    main #work .inner .tworks .twork:nth-child(3n) {
+        border-right: none;
+    }
+    main #work .inner .tworks .twork:nth-child(2n) {
+        border-right: 1px solid #121212;
+    }
+    main #work .inner .tworks .twork:last-child {
+        border-right: 1px solid #121212;
+        border-top: none;
+    }
+    main #work .inner .tworks .twork:nth-child(11) {
+        border-top: none;
+    }
+
+    main #work footer {
+        margin-top: 5rem;
+    }
+    
+
+
+    main #work .inner .tworks .twork .top {
+        padding: 1.5rem;
+    }
+
+    .popup .left h1 {
+        font-size: 9rem;
+    }
+
+    footer .inner {
+        padding: 0 2rem; 
+        display: flex;
+        flex-direction: column-reverse;
+        align-items: flex-start;
+        justify-content: space-between;
+    }
+    footer .inner .wrap {
+        width: 100%;
+        padding: 0 1rem;
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        margin-bottom: 2rem;
+    }
+    footer .inner .link a {
+        margin-right: 2rem;
+    }
+
+
+    footer .inner h2 {
+        font-family: 'Helvetica2';
+        font-size: 12rem;
+        font-weight: 600;
+        line-height: 0.8em;
+    }
+
+
+    main #profile footer {
+        margin-top: 25rem;
+    }
+    main #profile section .about .left {
+        width: 0%;
+        display: none;
+        visibility: hidden;
+    }
+
+    main #profile section .about .left img {
+        display: none;
+        visibility: hidden;
+    }
+    main #profile section .about .right {
+        width: 100%;
+        display: block;
+        margin-left: 0;
+    }
+    main #profile section .about .right > div {
+        border-top: 1px solid #000;
+        margin-bottom: 5rem;
+    }
+    main #profile footer {
+        margin-top: 4rem;
+    }
+
+    .popup {
+        width: 100%;
+        height: 100vh;
+        background-color: #fff;
+        transition: all 1s;
+        overflow-y: scroll;
+    }
+
+    .popup .inner {
+        flex-direction: column;
+    }
+    .popup .left {
+        width: 100%;
+    }
+    .popup .left .txt {
+        padding: 8rem 0;
+    }
+    .popup .right {
+        width: 100%;
+        height: auto;
+        overflow-y: visible;
+    }
+    .popup .right .wrap {
+        padding: 3rem;
+    }
+    .popup .right .wrap img {
+        width: 100%;
+    }
+
+}
+@media screen and (max-width : 768px) { 
+    .cursor-eye {
+        display: none;
+    }
+    html {
+        font-size: 15px;
+    }
+    h1 {
+        font-size: 5.5rem;
+    }
+    main .inner section {
+        padding: 0 1.5rem;
+    }
+    main #home section .title {
+        padding-top: 10rem;
+        margin: 0 1.5rem;
+    }
+    main #home .tag #web {
+        top: 15%;
+        left: 3%;
+        animation: down 1.5s;
+    }
+    @keyframes down {
+        from {
+            top: 0%;
+        } to {
+            top: 15%;
+        }
+    }
+    main #home .tag #Publisher {
+        top: 25%;
+        left: 15%;
+        animation: right 1.5s;
+    }
+    @keyframes right {
+        from {
+            left: 0%;
+        } to {
+            left: 15%;
+        }
+    }
+    main #home .tag #uiux {
+        top: 55%;
+        left: 10%;
+        animation: up 1.5s;
+    }
+    @keyframes up {
+        from {
+            top: 100%;
+        } to {
+            top: 55%;
+        }
+    }
+    main #home .tag #Designer {
+        top: 45%;
+        left: 45%;
+        animation: left 1.5s;
+    }
+    @keyframes left {
+        from {
+            left: 60%;
+        } to {
+            left: 45%;
+        }
+    }
+    main #home .tag #Portfolio {
+        top: 65%;
+        right: 15%;
+        animation: upp 1.5s;
+    }
+    @keyframes upp {
+        from {
+            top: 100%;
+        } to {
+            top: 65%;
+        }
+    }
+
+    main #work .inner .tabmenu {
+        top: 0;
+        left: 0;
+        width: 100%;
+        position: fixed;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(2, 1fr);
+        margin-top: calc(3rem - 1px);
+        z-index: 99;
+    }
+    main #work .inner .tabmenu li {
+        width: 100%;
+        height: 5rem;
+        line-height: 5rem;
+        text-align: center;
+        border: 1px solid #121212;
+        background-color: #fff;
+        transition: all .3s;
+    }
+    main #work .inner .tabmenu li:nth-child(1) {
+        grid-column: 1/3;
+    }
+
+    main #work .inner .tabworks-wrap {
+        margin-top: calc(13rem - 1px);
+    }
+
+    main #work .inner .tabmenu li:first-child {
+        border-bottom: none;
+    }
+
+
+    main #work .inner .tabmenu li a {
+        font-size: 3rem;
+    }
+
+    main #work .inner .tworks {
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(6, 18%);
+    }
+    main #work .inner .tworks#designcoding {
+        width: 100%;
+        height: 45%;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(2, 60%);
+    }
+    main #work .inner .tworks#coding {
+        width: 100%; 
+        height: 45%; 
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(2, 60%);
+    }
+
+    main #work .inner .tworks .twork .top {
+        padding: 1.5rem;
+    }
+
+    .popup .left h1 {
+        font-size: 9rem;
+    }
+
+
+    footer .inner {
+        padding: 0 1.35rem; 
+        display: flex;
+        flex-direction: column-reverse;
+        align-items: flex-start;
+        justify-content: space-between;
+    }
+    footer .inner .wrap {
+        width: 100%;
+        padding: 0 1rem;
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        margin-bottom: 2rem;
+    }
+    footer .inner .link a {
+        margin-right: 2rem;
+    }
+
+
+    footer .inner h2 {
+        font-family: 'Helvetica2';
+        font-size: 12rem;
+        font-weight: 600;
+        line-height: 0.8em;
+    }
+
+    main #profile section .title {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: flex-start;
+    }
+    main #profile section .title p {
+        padding-left: 0;
+        padding-top: 3rem;
+
+    }
+
+    main #profile footer {
+        margin-top: 25rem;
+    }
+    main #profile section .about .left {
+        width: 0%;
+        display: none;
+        visibility: hidden;
+    }
+
+    main #profile section .about .left img {
+        display: none;
+        visibility: hidden;
+    }
+    main #profile section .about .right {
+        width: 100%;
+        display: block;
+        margin-left: 0;
+    }
+    main #profile section .about .right > div {
+        border-top: 1px solid #000;
+        margin-bottom: 5rem;
+    }
+    main #profile footer {
+        margin-top: 4rem;
+    }
+
+    .popup {
+        width: 100%;
+        height: 100vh;
+        background-color: #fff;
+        transition: all 1s;
+        overflow-y: scroll;
+    }
+
+    .popup .inner {
+        flex-direction: column;
+    }
+    .popup .left {
+        width: 100%;
+        padding: 0 1.75rem;
+    }
+    .popup .left .txt {
+        padding: 8rem 0;
+    }
+    .popup .right {
+        width: 100%;
+        height: auto;
+    }
+    .popup .right .wrap {
+        padding: 3rem;
+    }
+
+}
+@media screen and (max-width : 502px) { 
+    html {
+        font-size: 14px;
+    }
+    h1 {
+        font-size: 5rem;
+    }
+    main .inner #home .back .bottom p:last-child {
+        display: none;
+    }
+    main #home .tag #web {
+        top: 17%;
+        left: 3%;
+        animation: down 1.5s;
+    }
+    @keyframes down {
+        from {
+            top: 0%;
+        } to {
+            top: 17%;
+        }
+    }
+    main #home .tag #Publisher {
+        top: 25%;
+        left: 15%;
+        animation: right 1.5s;
+    }
+    @keyframes right {
+        from {
+            left: 0%;
+        } to {
+            left: 15%;
+        }
+    }
+    main #home .tag #uiux {
+        top: 52%;
+        left: 10%;
+        animation: up 1.5s;
+    }
+    @keyframes up {
+        from {
+            top: 100%;
+        } to {
+            top: 52%;
+        }
+    }
+    main #home .tag #Designer {
+        top: 45%;
+        left: 33%;
+        animation: left 1.5s;
+    }
+    @keyframes left {
+        from {
+            left: 60%;
+        } to {
+            left: 33%;
+        }
+    }
+    main #home .tag #Portfolio {
+        top: 65%;
+        right: 15%;
+        animation: upp 1.5s;
+    }
+    @keyframes upp {
+        from {
+            top: 100%;
+        } to {
+            top: 65%;
+        }
+    }
+
+
+
+    main #work .inner .tabmenu {
+        top: 0;
+        left: 0;
+        width: 100%;
+        position: fixed;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(2, 1fr);
+        margin-top: calc(3rem - 1px);
+        z-index: 99;
+    }
+    main #work .inner .tabmenu li {
+        width: 100%;
+        height: 5rem;
+        line-height: 5rem;
+        text-align: center;
+        border: 1px solid #121212;
+        background-color: #fff;
+        transition: all .3s;
+    }
+    main #work .inner .tabmenu li:nth-child(1) {
+        grid-column: 1/3;
+    }
+
+    main #work .inner .tabworks-wrap {
+        margin-top: calc(13rem - 1px);
+    }
+
+    main #work .inner .tabmenu li:first-child {
+        border-bottom: none;
+    }
+
+
+    main #work .inner .tabmenu li a {
+        font-size: 3rem;
+    }
+
+    main #work .inner .tworks {
+        height: 180%;
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: repeat(12, 1fr);
+    }
+    main #work .inner .tworks#design {
+        margin-bottom: -35rem;
+    } 
+    main #work .inner .tworks#designcoding {
+        width: 100%;
+        height: 45%;
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: repeat(3, 45%);
+    }
+    main #work .inner .tworks#coding {
+        width: 100%; 
+        height: 45%; 
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: repeat(3, 45%);
+    }
+
+    main #work .inner .tworks .twork .top {
+        padding: 1.5rem;
+    }
+    main #work .inner .tworks .twork:not(:last-child) {
+        border-right: 1px solid #121212;
+    }
+    main #work .inner .tworks .twork:first-child {
+        border-bottom: none;
+    }
+    main #work .inner .tworks .twork:nth-child(10) {
+        border-top: none;
+    }
+
+    main #work footer {
+        margin-top: 30rem;
+    }
+
+
+    .popup .left h1 {
+        font-size: 9rem;
+    }
+
+
+    footer .inner .wrap {
+        width: 100%;
+        padding: 0 1rem;
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        margin-bottom: 2rem;
+    }
+    footer .inner .link a {
+        margin-right: 2rem;
+    }
+
+
+    footer .inner h2 {
+        font-family: 'Helvetica2';
+        font-size: 7.75rem;
+        font-weight: 600;
+        line-height: 0.8em;
+    }
+
+
+    main #profile footer {
+        margin-top: 25rem;
+    }
+    main #profile section .about .left {
+        width: 0%;
+        display: none;
+        visibility: hidden;
+    }
+
+    main #profile section .about .left img {
+        display: none;
+        visibility: hidden;
+    }
+    main #profile section .about .right {
+        width: 100%;
+        display: block;
+        margin-left: 0;
+    }
+    main #profile section .about .right > div {
+        border-top: 1px solid #000;
+        margin-bottom: 5rem;
+    }
+    main #profile footer {
+        margin-top: 4rem;
+    }
+
+    .popup {
+        width: 100%;
+        height: 100vh;
+        background-color: #fff;
+        transition: all 1s;
+        overflow-y: scroll;
+    }
+
+    .popup .inner {
+        flex-direction: column;
+    }
+    .popup .left {
+        width: 100%;
+    }
+    .popup .left .txt {
+        padding: 8rem 0;
+    }
+    .popup .right {
+        width: 100%;
+        height: auto;
+    }
+    .popup .right .wrap {
+        padding: 3rem;
+    }
+
+}
+@media screen and (max-width : 390px) { 
+    html {
+        font-size: 12px;
+    }
+    h1 {
+        font-size: 5rem;
+    }
+    main .inner #home .back .bottom p:last-child {
+        display: none;
+    }
+    main #home .tag #web {
+        top: 17%;
+        left: 3%;
+        animation: down 1.5s;
+    }
+    @keyframes down {
+        from {
+            top: 0%;
+        } to {
+            top: 17%;
+        }
+    }
+    main #home .tag #Publisher {
+        top: 25%;
+        left: 15%;
+        animation: right 1.5s;
+    }
+    @keyframes right {
+        from {
+            left: 0%;
+        } to {
+            left: 15%;
+        }
+    }
+    main #home .tag #uiux {
+        top: 52%;
+        left: 10%;
+        animation: up 1.5s;
+    }
+    @keyframes up {
+        from {
+            top: 100%;
+        } to {
+            top: 52%;
+        }
+    }
+    main #home .tag #Designer {
+        top: 43%;
+        left: 26%;
+        animation: left 1.5s;
+    }
+    @keyframes left {
+        from {
+            left: 60%;
+        } to {
+            left: 26%;
+        }
+    }
+    main #home .tag #Portfolio {
+        top: 65%;
+        right: 15%;
+        animation: upp 1.5s;
+    }
+    @keyframes upp {
+        from {
+            top: 100%;
+        } to {
+            top: 65%;
+        }
+    }
+
+
+
+    main #work .inner .tabmenu {
+        top: 0;
+        left: 0;
+        width: 100%;
+        position: fixed;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(2, 1fr);
+        margin-top: calc(3rem - 1px);
+        z-index: 99;
+    }
+    main #work .inner .tabmenu li {
+        width: 100%;
+        height: 5rem;
+        line-height: 5rem;
+        text-align: center;
+        border: 1px solid #121212;
+        background-color: #fff;
+        transition: all .3s;
+    }
+    main #work .inner .tabmenu li:nth-child(1) {
+        grid-column: 1/3;
+    }
+
+    main #work .inner .tabworks-wrap {
+        margin-top: calc(13rem - 1px);
+    }
+
+    main #work .inner .tabmenu li:first-child {
+        border-bottom: none;
+    }
+
+
+    main #work .inner .tabmenu li a {
+        font-size: 3rem;
+    }
+
+    main #work .inner .tworks {
+        height: 180%;
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: repeat(12, 1fr);
+    }
+    main #work .inner .tworks#design {
+        margin-bottom: -35rem;
+    } 
+    main #work .inner .tworks#designcoding {
+        width: 100%;
+        height: 45%;
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: repeat(3, 45%);
+    }
+    main #work .inner .tworks#coding {
+        width: 100%; 
+        height: 45%; 
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: repeat(3, 45%);
+    }
+
+    main #work .inner .tworks .twork .top {
+        padding: 1.5rem;
+    }
+    main #work .inner .tworks .twork:not(:last-child) {
+        border-right: 1px solid #121212;
+    }
+    main #work .inner .tworks .twork:first-child {
+        border-bottom: none;
+    }
+    main #work .inner .tworks .twork:nth-child(10) {
+        border-top: none;
+    }
+
+    main #work footer {
+        margin-top: 30rem;
+    }
+
+
+    .popup .left h1 {
+        font-size: 9rem;
+    }
+
+
+    footer .inner .wrap {
+        width: 100%;
+        padding: 0 1rem;
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        margin-bottom: 2rem;
+    }
+    footer .inner .link a {
+        margin-right: 2rem;
+    }
+
+
+    footer .inner h2 {
+        font-family: 'Helvetica2';
+        font-size: 7.75rem;
+        font-weight: 600;
+        line-height: 0.8em;
+    }
+
+
+    main #profile footer {
+        margin-top: 25rem;
+    }
+    main #profile section .about .left {
+        width: 0%;
+        display: none;
+        visibility: hidden;
+    }
+
+    main #profile section .about .left img {
+        display: none;
+        visibility: hidden;
+    }
+    main #profile section .about .right {
+        width: 100%;
+        display: block;
+        margin-left: 0;
+    }
+    main #profile section .about .right > div {
+        border-top: 1px solid #000;
+        margin-bottom: 5rem;
+    }
+    main #profile footer {
+        margin-top: 4rem;
+    }
+
+    main #profile section .about .right .resume a img {
+        margin-bottom: -0.6rem;
+    }
+
+    .popup {
+        width: 100%;
+        height: 100vh;
+        background-color: #fff;
+        transition: all 1s;
+        overflow-y: scroll;
+    }
+
+    .popup .inner {
+        flex-direction: column;
+    }
+    .popup .left {
+        width: 100%;
+    }
+    .popup .left .txt {
+        padding: 8rem 0;
+    }
+    .popup .right {
+        width: 100%;
+        height: auto;
+    }
+    .popup .right .wrap {
+        padding: 3rem;
+    }
+
+}
+@media screen and (max-width : 375px) { 
+    html {
+        font-size: 10px;
+    }
+    h1 {
+        font-size: 5rem;
+    }
+    main .inner #home .back .bottom p:last-child {
+        display: none;
+    }
+    main #home .tag #web {
+        top: 17%;
+        left: 3%;
+        animation: down 1.5s;
+    }
+    @keyframes down {
+        from {
+            top: 0%;
+        } to {
+            top: 17%;
+        }
+    }
+    main #home .tag #Publisher {
+        top: 25%;
+        left: 15%;
+        animation: right 1.5s;
+    }
+    @keyframes right {
+        from {
+            left: 0%;
+        } to {
+            left: 15%;
+        }
+    }
+    main #home .tag #uiux {
+        top: 52%;
+        left: 10%;
+        animation: up 1.5s;
+    }
+    @keyframes up {
+        from {
+            top: 100%;
+        } to {
+            top: 52%;
+        }
+    }
+    main #home .tag #Designer {
+        top: 45%;
+        left: 38%;
+        animation: left 1.5s;
+    }
+    @keyframes left {
+        from {
+            left: 60%;
+        } to {
+            left: 38%;
+        }
+    }
+    main #home .tag #Portfolio {
+        top: 65%;
+        right: 15%;
+        animation: upp 1.5s;
+    }
+    @keyframes upp {
+        from {
+            top: 100%;
+        } to {
+            top: 65%;
+        }
+    }
+
+
+
+    main #work .inner .tabmenu {
+        top: 0;
+        left: 0;
+        width: 100%;
+        position: fixed;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(2, 1fr);
+        margin-top: calc(3rem - 1px);
+        z-index: 99;
+    }
+    main #work .inner .tabmenu li {
+        width: 100%;
+        height: 5rem;
+        line-height: 5rem;
+        text-align: center;
+        border: 1px solid #121212;
+        background-color: #fff;
+        transition: all .3s;
+    }
+    main #work .inner .tabmenu li:nth-child(1) {
+        grid-column: 1/3;
+    }
+
+    main #work .inner .tabworks-wrap {
+        margin-top: calc(13rem - 1px);
+    }
+
+    main #work .inner .tabmenu li:first-child {
+        border-bottom: none;
+    }
+
+
+    main #work .inner .tabmenu li a {
+        font-size: 3rem;
+    }
+
+    main #work .inner .tworks {
+        height: 180%;
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: repeat(12, 1fr);
+    }
+    main #work .inner .tworks#design {
+        margin-bottom: -35rem;
+    } 
+    main #work .inner .tworks#designcoding {
+        width: 100%;
+        height: 45%;
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: repeat(3, 45%);
+    }
+    main #work .inner .tworks#coding {
+        width: 100%; 
+        height: 45%; 
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: repeat(3, 45%);
+    }
+
+    main #work .inner .tworks .twork .top {
+        padding: 1.5rem;
+    }
+    main #work .inner .tworks .twork:not(:last-child) {
+        border-right: 1px solid #121212;
+    }
+    main #work .inner .tworks .twork:first-child {
+        border-bottom: none;
+    }
+    main #work .inner .tworks .twork:nth-child(10) {
+        border-top: none;
+    }
+
+    main #work footer {
+        margin-top: 30rem;
+    }
+
+
+    .popup .left h1 {
+        font-size: 9rem;
+    }
+
+
+    footer .inner .wrap {
+        width: 100%;
+        padding: 0 1rem;
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        margin-bottom: 2rem;
+    }
+    footer .inner .link a {
+        margin-right: 2rem;
+    }
+
+
+    footer .inner h2 {
+        font-family: 'Helvetica2';
+        font-size: 9.25rem;
+        font-weight: 600;
+        line-height: 0.8em;
+    }
+
+
+    main #profile footer {
+        margin-top: 25rem;
+    }
+    main #profile section .about .left {
+        width: 0%;
+        display: none;
+        visibility: hidden;
+    }
+
+    main #profile section .about .left img {
+        display: none;
+        visibility: hidden;
+    }
+    main #profile section .about .right {
+        width: 100%;
+        display: block;
+        margin-left: 0;
+    }
+    main #profile section .about .right > div {
+        border-top: 1px solid #000;
+        margin-bottom: 5rem;
+    }
+    main #profile footer {
+        margin-top: 4rem;
+    }
+    main #profile section .about .right .resume a img {
+        width: 2rem;
+        height: 2rem;
+    }
+
+    .popup {
+        width: 100%;
+        height: 100vh;
+        background-color: #fff;
+        transition: all 1s;
+        overflow-y: scroll;
+    }
+
+    .popup .inner {
+        flex-direction: column;
+    }
+    .popup .left {
+        width: 100%;
+    }
+    .popup .left .txt {
+        padding: 8rem 0;
+    }
+    .popup .right {
+        width: 100%;
+        height: auto;
+    }
+    .popup .right .wrap {
+        padding: 3rem;
+    }
+
+}
+@media screen and (max-width : 320px) { 
+    html {
+        font-size: 9px;
+    }
+    h1 {
+        font-size: 5rem;
+    }
+    main .inner #home .back .bottom p:last-child {
+        display: none;
+    }
+    main #home .tag #web {
+        top: 17%;
+        left: 3%;
+        animation: down 1.5s;
+    }
+    @keyframes down {
+        from {
+            top: 0%;
+        } to {
+            top: 17%;
+        }
+    }
+    main #home .tag #Publisher {
+        top: 25%;
+        left: 15%;
+        animation: right 1.5s;
+    }
+    @keyframes right {
+        from {
+            left: 0%;
+        } to {
+            left: 15%;
+        }
+    }
+    main #home .tag #uiux {
+        top: 52%;
+        left: 10%;
+        animation: up 1.5s;
+    }
+    @keyframes up {
+        from {
+            top: 100%;
+        } to {
+            top: 52%;
+        }
+    }
+    main #home .tag #Designer {
+        top: 45%;
+        left: 38%;
+        animation: left 1.5s;
+    }
+    @keyframes left {
+        from {
+            left: 60%;
+        } to {
+            left: 38%;
+        }
+    }
+    main #home .tag #Portfolio {
+        top: 65%;
+        right: 15%;
+        animation: upp 1.5s;
+    }
+    @keyframes upp {
+        from {
+            top: 100%;
+        } to {
+            top: 65%;
+        }
+    }
+
+
+
+    main #work .inner .tabmenu {
+        top: 0;
+        left: 0;
+        width: 100%;
+        position: fixed;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(2, 1fr);
+        margin-top: calc(3rem - 1px);
+        z-index: 99;
+    }
+    main #work .inner .tabmenu li {
+        width: 100%;
+        height: 5rem;
+        line-height: 5rem;
+        text-align: center;
+        border: 1px solid #121212;
+        background-color: #fff;
+        transition: all .3s;
+    }
+    main #work .inner .tabmenu li:nth-child(1) {
+        grid-column: 1/3;
+    }
+
+    main #work .inner .tabworks-wrap {
+        margin-top: calc(13rem - 1px);
+    }
+
+    main #work .inner .tabmenu li:first-child {
+        border-bottom: none;
+    }
+
+
+    main #work .inner .tabmenu li a {
+        font-size: 3rem;
+    }
+
+    main #work .inner .tworks {
+        height: 180%;
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: repeat(12, 1fr);
+    }
+    main #work .inner .tworks#design {
+        margin-bottom: -35rem;
+    } 
+    main #work .inner .tworks#designcoding {
+        width: 100%;
+        height: 45%;
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: repeat(3, 45%);
+    }
+    main #work .inner .tworks#coding {
+        width: 100%; 
+        height: 45%; 
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: repeat(3, 45%);
+    }
+
+    main #work .inner .tworks .twork .top {
+        padding: 1.5rem;
+    }
+    main #work .inner .tworks .twork:not(:last-child) {
+        border-right: 1px solid #121212;
+    }
+    main #work .inner .tworks .twork:first-child {
+        border-bottom: none;
+    }
+    main #work .inner .tworks .twork:nth-child(10) {
+        border-top: none;
+    }
+
+    main #work footer {
+        margin-top: 30rem;
+    }
+
+
+    .popup .left h1 {
+        font-size: 9rem;
+    }
+
+
+
+    footer .inner .wrap {
+        width: 100%;
+        padding: 0 1rem;
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        margin-bottom: 2rem;
+    }
+    footer .inner .link a {
+        margin-right: 2rem;
+    }
+
+
+    footer .inner h2 {
+        font-family: 'Helvetica2';
+        font-size: 9.25rem;
+        font-weight: 600;
+        line-height: 0.8em;
+    }
+
+
+    main #profile footer {
+        margin-top: 25rem;
+    }
+    main #profile section .about .left {
+        width: 0%;
+        display: none;
+        visibility: hidden;
+    }
+
+    main #profile section .about .left img {
+        display: none;
+        visibility: hidden;
+    }
+    main #profile section .about .right {
+        width: 100%;
+        display: block;
+        margin-left: 0;
+    }
+    main #profile section .about .right > div {
+        border-top: 1px solid #000;
+        margin-bottom: 5rem;
+    }
+    main #profile footer {
+        margin-top: 4rem;
+    }
+
+    .popup {
+        width: 100%;
+        height: 100vh;
+        background-color: #fff;
+        transition: all 1s;
+        overflow-y: scroll;
+    }
+
+    .popup .inner {
+        flex-direction: column;
+    }
+    .popup .left {
+        width: 100%;
+    }
+    .popup .left .txt {
+        padding: 8rem 0;
+    }
+    .popup .right {
+        width: 100%;
+        height: auto;
+    }
+    .popup .right .wrap {
+        padding: 3rem;
+    }
+
+}

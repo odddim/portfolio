@@ -1,0 +1,66 @@
+@charset "utf-8";
+
+
+
+@font-face {
+    font-family: 'Helvetica1';
+    font-style: normal;
+    font-weight: 600;
+    src: url(../fonts/NonBureau-Medium.woff2) format('woff2'),
+    url(../fonts/NonBureau-Medium.otf) format('opentype');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Helvetica2';
+    font-style: normal;
+    font-weight: 400;
+    src: url(../fonts/NonBureau-Regular.woff2) format('woff2'),
+    url(../fonts/NonBureau-Regular.otf) format('opentype');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Pretendard-Regular';
+    src: url('https://fastly.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+html {
+    -webkit-text-size-adjust: 100%; /* iOS에서 자동 확대 방지 */
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+body {
+    font-family: 'Helvetica1', 'Helvetica2', sans-serif;
+    overflow-x: hidden;
+    background-color: #FFF;
+    cursor: none;
+    -webkit-font-smoothing: antialiased;
+}
+body#cursorshow {
+    cursor: auto;
+}
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    user-select: none;
+}
+
+a {
+    text-decoration: none;
+    color: #121212;
+}
+ul {
+    list-style: none;
+}
+h1 {
+    font-weight: 500;
+    font-size: 8rem;
+    color: #FFF;
+}
+p {
+    font-family: 'Helvetica2', sans-serif;
+    font-weight: 400;
+    line-height: 1.4em;
+}
